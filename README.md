@@ -1,2 +1,2 @@
-# vbscript
+# VBS
 Repo VBS
