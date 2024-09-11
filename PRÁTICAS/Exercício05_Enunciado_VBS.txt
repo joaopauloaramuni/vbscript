@@ -1,0 +1,13 @@
+Escreva um script (arquivo .vbs), que resolva a seguinte questão:
+
+Script que remove uma porta no firewall do windows.
+	
+Dica: Antes de começar, veja o script exer37_createPort.vbs disponível no material didático. 
+Este script cria uma porta no firewall. Lembre-se que para remover, também deverá ser passado
+o parâmetro de protocolo (UPD, TCP).
+
+Consistência: Caso a porta não exista, exiba mensagem "A porta não existe no firewall!".
+Caso exista, remova a porta do firewall (Remover é diferente de desabilitar).
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .vbs, 
+entregue com a extensão .txt.

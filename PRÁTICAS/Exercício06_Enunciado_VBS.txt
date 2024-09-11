@@ -1,0 +1,13 @@
+Entregue via SINEF um arquivo .doc (word) explicando, com suas palavras,
+cada um dos temas listados abaixo:
+
+1) WMI 
+2) WMI Providers
+3) WMI Classes (Métodos / Propriedades)
+4) WMI Connection
+5) WQL / Querys
+6) Modelo CIM
+
+- Além das definições, apresente exemplos práticos.
+
+- Máximo de 2 páginas.

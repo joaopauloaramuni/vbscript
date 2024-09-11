@@ -1,0 +1,21 @@
+Escreva um script (arquivo .vbs), que resolva a seguinte questão:
+
+Script que leia uma lista de ip's ou hosts de um arquivo .txt e ping cada um destes ip's/hosts.
+
+	Exemplo verdadeiro: www.google.com (primeira linha do arquivo .txt)
+	Resultado: Primeira linha (www.gooogle.com) -> pingado com sucesso! (ON)
+	
+	Exemplo falso: www.12345xxyyzz.com (segunda linha do arquivo .txt)
+	Resultado: Segunda linha (www.12345xxyyzz.com) -> ping sem resposta! (OFF)
+	
+Dica: Antes de começar, veja o script exer48_wmi_ping.vbs disponível no material didático. 
+Este script pinga um determinado ip ou host através de uma função chamada Ping() que recebe
+como parâmetro a string com o endereço ip ou host. Veja também o exercício exer36_openTextFile,
+que faz a leitura de um arquivo .txt. Utilize o método read para ler cada linha do arquivo txt.
+Este exercício é uma junção destes dois citados anteriormente.
+
+Consistência: Caso o arquivo .txt não exista, exiba mensagem "Arquivo de hosts/ips não encontrado!".
+Lembre-se de não executar o restante do script caso o arquivo não seja encontrado no diretório especificado.
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .vbs, 
+entregue com a extensão .txt.

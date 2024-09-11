@@ -1,0 +1,23 @@
+Escreva um script (arquivo .vbs), que resolva a seguinte questão:
+
+Script para remover um driver mapeado.
+
+	Exemplo: Se a unidade P: estiver mapeada, o script .vbs irá remover esta unidade.
+	Resultado: Unidade P: removida com sucesso.
+
+Dica: Antes de começar, veja o script exer_mapDrive.vbs disponível no material didático. 
+Este script mapeia a unidade passada como parâmetro (P:) através do método MapNetworkDrive, 
+disponível no objeto WshNetwork (que chamamos de objNetwork), que nada mais é do que uma
+instância da classe WScript.Network. 
+Documentação: https://msdn.microsoft.com/en-us/library/8kst88h6(v=vs.84).aspx
+
+Para resolver o problema, você precisará do método RemoveNetworkDrive disponível no objeto WshNetwork.
+Documentação: https://msdn.microsoft.com/en-us/library/d16d7wbf(v=vs.84).aspx
+
+Consistência: Não se esqueça que para remover um drive, primeiro ele deve estar mapeado.
+Caso não esteja mapeado, não é necessário executar o comando de remoção.
+Para verificar isso, você precisará do método DriveExists da classe Scripting.FileSystemObject.
+Se estiver mapeado, então remova. Senão imprima WScript.Echo "Driver nao mapeado !!!".
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .vbs, 
+entregue com a extensão .txt.

@@ -1,0 +1,16 @@
+Escreva um script (arquivo .vbs), que resolva a seguinte questão:
+
+Script para verificar qual número é o maior de uma série de 3 números inseridos via teclado.
+
+	Exemplo: Se eu inserir: 5, 25 e 10
+	Resultado: O maior número é: 25
+
+Dica: Você precisará utilizar uma estrutura if elseif else. Sem a necessidade de loops.
+
+Desafio: Consistência: Tente verificar se a entrada de dados do usuário é um número ou uma letra.
+Caso seja uma letra, exiba a mensagem: "Você deve inserir um valor numérico, tente de novo.".
+O restante do código não deve ser executado. Utilize um bloco if else para isso.
+Dica: Você precisará da função intrínseca "IsNumeric" para verificar se é um númeral.
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .vbs, 
+entregue com a extensão .txt.

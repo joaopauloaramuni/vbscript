@@ -1,0 +1,18 @@
+VBScript
+
+Defina os conceitos:
+
+Tecnologias:
+WMI 
+WMI Providers / Classes (Métodos / Propriedades) / Objects
+WQL / Querys
+String de conexão com a WMI
+
+Estrutura de repetição:
+For each
+
+Exercício de Revisão:
+Classe: FileSystemObject
+Métodos: Leitura e escrita em arquivo texto .txt
+
+
