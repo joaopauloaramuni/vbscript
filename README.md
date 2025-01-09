@@ -1,4 +1,4 @@
-# VBS
+-----
 
 <div align="center">
     <table>
@@ -25,4 +25,15 @@ Disciplina de Desenvolvimento de Scripts I do Curso Superior de Tecnologia em Re
 - 1°Sem 2016
 - 2°Sem 2016
 
-https://www.amazon.com.br/VBScript-Pocket-Reference-Matt-Childs/dp/0596001266
+-----
+
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/vbscript/tree/main/PDF)
+- [Práticas](https://github.com/joaopauloaramuni/vbscript/tree/main/PRA%CC%81TICAS)
+- [Projetos](https://github.com/joaopauloaramuni/vbscript/tree/main/PROJETOS)
+- [Atividade Autoinstrucional](https://github.com/joaopauloaramuni/vbscript/tree/main/AAI)
+
+#### Links úteis:
+- [VBScript Pocket Reference](https://www.amazon.com.br/VBScript-Pocket-Reference-Matt-Childs/dp/0596001266)
+
+-----
